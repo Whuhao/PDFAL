@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="r273e39093.qicp.vip" id="1b213290-27cb-4181-ad1d-50ce1588c74c" port="35995" nameFormat="DESCRIPTIVE" username="chenyanjiao" />
+    </configs>
+  </component>
+</project>
